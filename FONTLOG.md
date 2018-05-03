@@ -8,15 +8,15 @@ The "BBAW Schoell" font is maintained by the Digital Humanities Initiative [TELO
 
 The font "BBAW Schoell" is mainly based on the font ["Linux Libertine"](http://libertine-fonts.org/) and includes therefore alle characters of the Linux Libertine. The "Linux Libertine" was selected in a comprehensive evaluation of open source fonts in 2014 because it had the largest character set (regarding the requirements of the BBAW projects) and high typographic quality. The letters of the Unicode blocks "Greek and Coptic" and "Coptic" were integrated from the OFL licensed font ["New Athena Unicode"](http://apagreekkeys.org). In addition, special Egyptian characters were designed and added for the purposes of the academic project "Structures and Transformations of the Vocabulary of the Egyptian Language: Text and Knowledge Culture in Ancient Egypt". 
 
-At the moment, the font only includes the normal font style. There are no other styles (e.g. italics) for the added parts. For the letters taken over unchanged from the Linux Libertine, users can find further font styles there.
+At the moment, the font only includes the normal style. There are no other styles (e.g. italics) for the added parts. For the letters taken over unchanged from the Linux Libertine, users can find further font styles there.
 
 ## Licence
 
-This Font is Licence under the termis of the Open Font Licence (OFL) 1.1. For details and for included Fonts and their licences, see OFL-1.1.txt in this repository/package.
+This font is licensed under the terms of the Open Font Licence (OFL) 1.1. For details and for included fonts and their licences, see OFL-1.1.txt in this repository.
 
 ## ChangeLog
 
-### 2018-05-03 BBAW Schoell 1.0
+### 2018-05-03 
 
 * Rename font
 * Add licence
@@ -35,8 +35,8 @@ This Font is Licence under the termis of the Open Font Licence (OFL) 1.1. For de
 
 ## Acknowledgements
 
-N: Stefan Dumont (BBAW) 
-E: dumont@bbaw.de 
-W: http://www.bbaw.de/die-akademie/mitarbeiter/dumont
-D: Adding egyptological symbols
-D: Adding coptic glyphs from New Athena Unicode
+N: Stefan Dumont (BBAW)   
+E: dumont@bbaw.de   
+W: http://www.bbaw.de/die-akademie/mitarbeiter/dumont  
+D: Adding egyptological symbols  
+D: Adding coptic glyphs from New Athena Unicode  
