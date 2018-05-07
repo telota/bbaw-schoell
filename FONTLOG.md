@@ -12,7 +12,7 @@ At the moment, the font only includes the normal style. There are no other style
 
 ## Licence
 
-This font is licensed under the terms of the Open Font Licence (OFL) 1.1. For details and for included fonts and their licences, see OFL-1.1.txt in this repository.
+This font is licensed under the terms of the Open Font Licence (OFL) 1.1: © Berlin-Brandenburgische Akademie der Wissenschaften 2014-2018. For details and for included fonts and their licences, see OFL-1.1.txt in this repository.
 
 ## ChangeLog
 
